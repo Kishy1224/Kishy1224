@@ -5,8 +5,8 @@
 
 <br />
 
-- 🔭 **I’m currently working on Devops and exploring Kubernetes.**
-- 🌱 **I’m currently learning Networking,Data Structures & Algorithms,Deep Learning and its math behind.**
+- 🔭 **I’m currently Concentrating on Research based Deep Learning and Image Processing.**
+- 🌱 **I’m currently learning Networking ,kubernetes ,Data Structures & Algorithms,Deep Learning and its math behind.**
 - 👯 **I’m looking to collaborate on Natural Language Processing,DSA and Web development projects.**
 - 🤔 **I’m looking for help with understanding the Kubernetes Codebase.**
 - 💬 **Ask me about Computer Science related stuff,would be happy to help with the knowledge i have!**
